@@ -2,6 +2,11 @@
 
 Mycroft Skill Manager, in python!
 
+Development of this repository moved, get the latest version at [MycroftAI/mycroft-skills-manager](https://github.com/MycroftAI/mycroft-skills-manager/)
+
+Archived for Historical reasons only
+
+
 ## install
 
     pip install py_msm
